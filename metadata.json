@@ -1,0 +1,6 @@
+{
+  "name": "CV Hub - Minimalist Resume Manager",
+  "description": "Multi-CV management system with JSON import/export, themes, shareable links, and static architecture ready for Vercel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
