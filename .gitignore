@@ -1,5 +1,5 @@
 node_modules/
-build/
+build/git rm -r --cached node_modules
 dist/
 coverage/
 .DS_Store
